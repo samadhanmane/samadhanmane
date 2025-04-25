@@ -20,7 +20,7 @@ Software development & system design projects
 📫 How to reach me
 GitHub: @samadhanmane
 LinkedIn: www.linkedin.com/in/samadhan-mane
-Email: samadhanmane2324@example.com
+Email: samadhanmane2324@gmail.com
 
 😄 Pronouns:
 He/Him
