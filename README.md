@@ -10,7 +10,7 @@ Open Source Contributions
 
 🌱 I’m currently learning
 Advanced DSA (Graphs, Dynamic Programming, etc.)
-Backend Development (Node.js, Express, Django, Flask)
+
 
 💞️ I’m looking to collaborate on
 Open-source projects
